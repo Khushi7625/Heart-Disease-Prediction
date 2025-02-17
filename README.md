@@ -1,4 +1,4 @@
-#**Heart Disease Prediction**
+# **Heart Disease Prediction**
 Predict heart disease likelihood using machine learning (Logistic Regression) based on medical features.
 ## Dataset
 - **Source:** UCI Heart Disease Dataset
